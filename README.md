@@ -13,15 +13,6 @@
 </div>
 
 ---
-<div>
-Learn to code and get hired with <a href="https://zerotomastery.io/?utm_source=github&utm_medium=sponsor&utm_campaign=reactjs-interview-questions">Zero To Mastery:</a>
-<ol>
-<li>This <a href="https://links.zerotomastery.io/react_sudheer">React course</a> is good if you’re struggling to learn React beyond the basics</li>
-<li>This <a href="http://links.zerotomastery.io/mci_sudheer">coding interview bootcamp</a> is helpful if you’re serious about getting hired as a developer</li>
-</ol>
-</div>
-
----
 
 **Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/lalitsaini56/javascript-interview-questions) for core javascript questions.
 
